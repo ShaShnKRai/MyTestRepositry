@@ -1,0 +1,7 @@
+document
+#document
+document.getElementById("yt")
+null
+const yt = document.getElementById('yt')
+undefined
+yt.innerText("22-10-22")
